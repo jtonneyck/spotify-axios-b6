@@ -2,7 +2,8 @@
 
 For this example code you need to create a .env file with the following
 values:
-rootDirOfThisApp/.env
+
+`rootDirOfThisApp/.env`
 ```
 clientId=yourClientIDWithoutQuotationMarks
 clientSecret=yourClientSecretWithoutQuotationMarks
